@@ -110,27 +110,31 @@ I'm a dedicated and enthusiastic third-year computer science engineering student
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
+<!--               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
       <br>Jupyter
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
  </tr>
+
+
+ 
+</table>
 
 
  
