@@ -1,5 +1,6 @@
 ### 👋 Hello there!
 
+<img align="right" src="https://komarev.com/ghpvc/?username=Nitya-Kalloli&color=brightgreen" />
 
 ### I'm Nitya Kalloli
 
