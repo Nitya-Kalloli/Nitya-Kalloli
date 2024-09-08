@@ -11,7 +11,7 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Nitya_Prakash/)
 
 ### Welcome !
-I'm a dedicated and enthusiastic third-year computer science engineering student with a keen interest in web development and cutting-edge technologies. Currently, I am learning to build websites, and I take pleasure in developing dynamic and intuitive web applications that solve real-world problems. I am passionate about designing innovative solutions, collaborating with others, and continuously learning new skills. Beyond coding, I love exploring new technologies, contributing to open-source projects, and engaging with the developer community.
+I'm a dedicated and enthusiastic final-year computer science engineering student with a keen interest in web development and cutting-edge technologies. Currently, I am learning to build websites, and I take pleasure in developing dynamic and intuitive web applications that solve real-world problems. I am passionate about designing innovative solutions, collaborating with others, and continuously learning new skills. Beyond coding, I love exploring new technologies, contributing to open-source projects, and engaging with the developer community.
 
 
 <h2 align="center">⚒️ My favourite tools and technologies ⚒️</h2>
